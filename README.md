@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src=![tyler the creator _3](https://github.com/pabloostos/pabloostos/assets/88395717/ff3fc912-bee1-47cd-8806-818ea76761ca) />
+  <img src="https://github.com/pabloostos/pabloostos/assets/88395717/ff3fc912-bee1-47cd-8806-818ea76761ca"/>
 </p>
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
