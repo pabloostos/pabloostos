@@ -1,8 +1,10 @@
 # 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞! ✋🏼 𝐈'𝐦 𝐏𝐚𝐛𝐥𝐨 𝐎𝐬𝐭𝐨𝐬
 ## 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞!
 
-![tyler the creator _3](https://github.com/pabloostos/pabloostos/assets/88395717/ff3fc912-bee1-47cd-8806-818ea76761ca)
 
+<p align="center">
+  <img src=![tyler the creator _3](https://github.com/pabloostos/pabloostos/assets/88395717/ff3fc912-bee1-47cd-8806-818ea76761ca) />
+</p>
 # 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
 - 🧪 𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭: Cloud, AI & ML, Data Science, BI
