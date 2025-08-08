@@ -9,7 +9,7 @@
 
 - 🧪 𝐀𝐫𝐞𝐚𝐬 𝐨𝐟 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭: Cloud, AI & ML, Data Science, BI
 - 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧: MSc in Computer Science with Specialization in Software Development, BSc in Industrial Engineering
-- 💼 𝐏𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞: Customer Tech Consultant @ EY, BI Technicial @ MakingScience, Summer Business Analyst @ 2812 Partners
+- 💼 𝐏𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞: Customer Tech Consultant @ EY, BI Technician @ MakingScience
 - 🧠 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: Professional Cloud Data Engineering Google Certification
 - 🧃 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬: MMA 🥊, Tennis & Padel 🎾, Golf ⛳
 
