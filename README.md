@@ -37,11 +37,11 @@ Now specialized in AI engineering, automation, and SaaS building.
 
 # ⚡️ Fun Stuff
 Outside of shipping products and debugging at 2AM:
-🏋️ Hyrox & Running
-🥊 MMA
-🎾 Tennis & Padel
-⛳ Golf
-☕️ Fuelled by coffee + endless curiosity
+- 🏋️ Hyrox & Running
+- 🥊 MMA
+- 🎾 Tennis & Padel
+- ⛳ Golf
+- ☕️ Fuelled by coffee + endless curiosity
 
 
 
